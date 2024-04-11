@@ -1,0 +1,132 @@
+.font12{
+    font-size: 12px!important;
+}
+.font13{
+    font-size: 13px!important;
+}
+.font14{
+    font-size: 14px!important;
+}
+
+
+.employeeProfileDetail .profilePic{
+    width: 170px;
+    height: 140px;
+    object-fit: cover;
+    object-position: center center;
+}
+.employeeProfileDetail .headingText h2{
+    font-size: 20px!important;
+    font-weight: 600;
+}
+.employeeProfileDetail .headingText h4{
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.employeeProfileDetail .headingText p{
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+
+
+.msgWrap{
+  position: fixed;
+  right: 10px;
+  z-index: 9;
+  top: 80px;
+}
+
+
+
+
+
+.attechmentBox{
+        width:100px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .attechmentBox a{
+        white-space: nowrap;
+    }
+.attechmentBox img{
+        width:100%;
+	height: 100px;
+	object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+.deadLeadStatus{
+    background-color: rgba(244, 106, 106,.18);
+    color:#f46a6a;
+}
+
+.notAnsweringStatus{
+    color: #74788d;
+    background-color: rgba(116, 120, 141, .18);
+}
+
+.pendingStatus{
+    background-color: rgba(241, 180, 76,.18);
+    color:#f1b44c;
+}
+
+.demoStatus{
+    background-color: black;
+    color:#fff;
+}
+
+.convertedStatus{
+    background-color: rgba(52, 195, 143, .18);
+    color: #34c38f;    
+}
+
+.followUPStatus{
+    background-color: rgba(85,110,230, .18);
+    color: #556ee6;
+}
+
+.notInterestedStatus{
+    background-color: rgba(8, 146, 156, .18);
+    color: #08929c;
+}
+
+.pfoStatus{
+    background-color: rgba(146, 64, 64, .18);
+    color:#924040;
+}
+
+.intBuyLaterStatus{
+    background-color: rgba(212, 127, 8, .18);
+    color:#d47f08;
+}
+
+.closedStatus{
+    color: #343a40;
+    background-color: rgba(52, 58, 64, .18);
+}
+
+.reopenStatus{
+    color: #50a5f1;
+    background-color: rgba(80, 165, 241, .18);
+}
+
+.noWrap{
+    white-space: nowrap;
+}
+.ellipsisShow{
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+.maxWidth200{
+    max-width: 200px!important;
+}
